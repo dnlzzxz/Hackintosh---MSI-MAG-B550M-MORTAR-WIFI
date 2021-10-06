@@ -1,5 +1,7 @@
 # Hackintosh - MSI MAG B550M MORTAR WIFI
 
+![Screen Shot 2021-09-30 at 14 13 23](https://user-images.githubusercontent.com/40923874/136211559-afaf7cae-070e-4ee3-bc9b-fe5564359db3.png)
+
 
 Hello, 
 
@@ -30,6 +32,7 @@ Bios Settings:
 
 What's Working: 
 
+- Photo app text recognition
 - iMessage
 - Facetime
 - Updates
